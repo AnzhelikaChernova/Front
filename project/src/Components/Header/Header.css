@@ -1,0 +1,12 @@
+.MainList{
+    display: flex;            
+    justify-content: center;  
+    list-style-type: none;    
+    padding: 20px;               
+    margin: 0;     
+}
+
+.MainList li{
+    display: inline-block;
+    margin-right: 50px;
+}
